@@ -85,7 +85,7 @@ namespace Prism
                 RegionManager.UpdateRegions();
                 InitializeShell(shell);
             }
-			
+
             InitializeModules();
         }
 
